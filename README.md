@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desireemendes
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Ruby/Rails
 
 <!---
 desireemendes/desireemendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
