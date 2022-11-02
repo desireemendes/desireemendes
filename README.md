@@ -1,4 +1,15 @@
-👋 Hi, I’m @desireemendes, a full-stack web developer
+~$: whoami 
+
+<h2 align="center"> ~$: whoami </h2>
+
+* 💻 I am a Full-Stack Developer/Cybersecurity Analyst
+* 🍁 Located in Toronto, Canada 
+* 👉 Check out my portfolio site [here]([(https://personal-portfolio-one.vercel.app/)]) 👈  
+* 📖 Graduated from LHL Web Development Bootcamp and Toronto Metropolitan University Accelerated Cybersecurity Training Program
+* ✅ Certifications: GFACT, GSEC, GCIH  
+* 💻 Graduated from LHL Web Development Bootcamp and Toronto Metropolitan University Accelerated Cybersecurity Training Program 
+* 📲 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/desireemendes/)  
+
 
 
 <!---
