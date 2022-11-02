@@ -1,4 +1,3 @@
-~$: whoami 
 
 <h2 align="center"> ~$: whoami </h2>
 
